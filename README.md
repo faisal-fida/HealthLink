@@ -4,6 +4,7 @@
 - Video/Audio calls, Chat, Call transcription & LLM-powered video calls
 - Secure appointment scheduling, E-prescriptions & Integrated payment solutions
 - Deployed on fly.io & github pages using Docker with CI/CD
+
   
 
 ## Demo 🔽
@@ -39,7 +40,7 @@
 
 <div align="center">
 
-<a href="https://healthlink-fyp.github.io/HealthLink/"><img src="https://github.com/user-attachments/assets/05e2e01a-8e43-4455-b91b-d295d4795e83" alt="Healthlink Frontend Demo" width="80%"></a>
+<a href="https://healthlink-fyp.github.io/HealthLink/"><img src="https://github.com/user-attachments/assets/6ea00db6-846a-43b9-803e-7716948e4867" alt="Healthlink Frontend Demo" width="80%"></a>
 
 <a href="https://healthlink.fly.dev/"><img src="https://github.com/HealthLink-Fyp/HealthLink/assets/69955157/eb1fe2dd-ca57-4406-a4a9-bc68737c1e57" alt="Healthlink Frontend Demo" width="80%"></a>
 
